@@ -10,7 +10,7 @@
 
 class APJP_APJP
 {
-	static $APJP_KEY = 'hZi7S2V3ca3ROTzz';
+	static $APJP_KEY = '';
 	static $APJP_REMOTE_HTTP_SERVER_RESPONSE_PROPERTY_KEY = array('', '', '', '', '');
 	static $APJP_REMOTE_HTTP_SERVER_RESPONSE_PROPERTY_VALUE = array('', '', '', '', '');
 	static $APJP_REMOTE_HTTPS_SERVER_RESPONSE_PROPERTY_KEY = array('', '', '', '', '');
